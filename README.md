@@ -1,6 +1,6 @@
 # Terrari
 
-<img src="https://user-images.githubusercontent.com/4682613/222948927-e495eafc-c6b1-4ab7-9ba3-dabd9c2519ba.png" width="350px" alt="Terarri Logo - the lightweight cloud resource manager" />
+<img src="https://user-images.githubusercontent.com/4682613/222948927-e495eafc-c6b1-4ab7-9ba3-dabd9c2519ba.png" width="250px" alt="Terarri Logo - the lightweight cloud resource manager" />
 
 
 
