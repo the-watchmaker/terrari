@@ -1,11 +1,13 @@
 # Terrari
 
+<img src="https://user-images.githubusercontent.com/4682613/222948927-e495eafc-c6b1-4ab7-9ba3-dabd9c2519ba.png" width="350px" alt="Terarri Logo - the lightweight cloud resource manager" />
+
 
 
 
 ---
 
-# It's build on Tauri + React + Typescript + Vite + Yarn
+# It's build on Tauri + Rust + React + Typescript + Vite + Yarn
 
 Please refer to [Tauri website](https://tauri.app/v1/guides/getting-started/setup) for setting up the environment.
 
