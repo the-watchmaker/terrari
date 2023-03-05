@@ -22,7 +22,7 @@ Stacks:
 - Yarn: package manager for React/TypeScript
 
 (agent)
-- Rust: For Terarri agent. Please visit 
+- Rust: For Terarri agent. Please visit [Terrari WordPress Agent](https://github.com/the-watchmaker/terrari-wp-agent)
 
 
 ## Recommended IDE Setup
