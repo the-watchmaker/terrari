@@ -4,9 +4,14 @@ Terarri is a super lightweight cloud resource manager. The first version will ma
 
 <img src="https://user-images.githubusercontent.com/4682613/222948927-e495eafc-c6b1-4ab7-9ba3-dabd9c2519ba.png" width="250px" alt="Terarri Logo - the lightweight cloud resource manager" />
 
-## WordPress (+Nginx) Manager
 
-Terrari will install [Terrari WordPress Agent](https://github.com/the-watchmaker/terrari-wp-agent) on your Cloud Service providers. The Beta version will only support baremetal and Digtal Ocean. The next one will be AWS.
+## Features per Agents
+
+### WordPress Agent
+
+This will allow Terrari to manage WordPress servers and DNS and more through APIs of a cloud provider. Terrari will install [Terrari WordPress Agent](https://github.com/the-watchmaker/terrari-wp-agent) on your Cloud Service providers. 
+
+The Beta version will only support baremetal and Digtal Ocean. The next one will be AWS.
 
 
 
