@@ -2,8 +2,9 @@
 
 Terrari is a super lightweight cloud resource manager. The first version will manage WordPress(+Nginx) servers for my personal use. I'm running about 15+ WordPress websites hosted on different providers. I've always wanted to write my own manager to manage them. Later on, I will add features for managing my homelab. 
 
-<img src="https://user-images.githubusercontent.com/4682613/222948927-e495eafc-c6b1-4ab7-9ba3-dabd9c2519ba.png" width="250px" alt="Terarri Logo - the lightweight cloud resource manager" />
+<img src="https://user-images.githubusercontent.com/4682613/223883343-1d46f00c-aed4-469c-b72b-fc2d2bf7dbf6.png" width="250px" alt="Terarri Logo - the lightweight cloud resource manager" />
 
+Thank you Grace Ling (IG @ [candyleaf_](https://www.instagram.com/candyleaf_/?hl=en)) for letting me use this as Terrari logo!
 
 ## Features and milestones
 
