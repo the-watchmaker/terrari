@@ -15,7 +15,16 @@ This will allow Terrari to manage WordPress servers and DNS and more through API
 The Beta version will only support baremetal and Digtal Ocean. The next one will be AWS.
 
 
-### MileStone #2: (TBD)
+### MileStone #2: Docker Manager
+
+A drag-and-drop cute docker manager. It must be cute. Otherwise no point.
+
+
+### MileStone #3: K8s Manager
+
+A cute drag-and-drop k8s manager. It must be cute. Otherwise no point.
+
+
 
 
 ---
